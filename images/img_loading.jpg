@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+    <head>
+        <base href="//examen.gratisrijbewijsonline.be/" />
+        <meta charset="utf-8" />
+        <title>Gratis Rijbewijs Online</title>
+        <meta name="author" content="Eugeen Van Aerschot" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="css/reset.css" type="text/css" />
+        <link rel="stylesheet" href="css/css.css" type="text/css" />        
+    </head>
+<body>
+
+<div id="new-header">
+
+	<div class="wrap">
+
+        <div id="logo">
+
+			<a href="//www.gratisrijbewijsonline.be" class="flag_be">Gratis rijbewijs online</a>
+
+        </div>        
+
+        <div id="menu">
+            <ul>
+                <li><a href="//www.gratisrijbewijsonline.be">Home</a></li>
+                <li><a href="//www.gratisrijbewijsonline.be/theorie">Theorie</a></li>
+                <li><a href="//www.gratisrijbewijsonline.be/proefexamen">Examens</a></li>
+                <li><a href="//www.gratisrijbewijsonline.be/reacties">Reacties</a></li>
+                <li><a href="//www.gratisrijbewijsonline.be/praktijk">Praktijk</a></li>
+                <li><a href="//www.gratisrijbewijsonline.be/handboek">Handboek</a></li>
+                <li><a href="//www.gratisrijbewijsonline.be/gratis-rijbewijs-online-forum">Forum</a></li>
+                <li><a href="//www.gratisrijbewijsonline.be/rijschool">Rijschool</a></li>                
+                <li><a href="//www.gratisrijbewijsonline.be/varia">Varia</a></li>
+            </ul>
+        </div>
+        
+    </div>
+    
+</div>              
+<div class="wrap">
+	
+    <div id="content">
+
+		<h1>Niet gevonden</h1>                 
+         
+        <div class="message error">De gevraagde pagina werd niet gevonden.</div>
+
+    </div>
+    
+</div>
+    
+</body>
+</html>
